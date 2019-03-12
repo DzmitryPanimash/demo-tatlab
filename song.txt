@@ -10,6 +10,3 @@ for new commit
 you can push "submit"
 YOU CAN PUSH "SUBMIT"!!!
 
-
-and repeat 100 times.
-
