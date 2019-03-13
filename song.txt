@@ -21,5 +21,11 @@ added by me!
 
 and repeat 100 times.
 
+
 Again I have to write 
 some words...
+
+And now I have to write
+some conflict words
+in the feature branch.
+
