@@ -20,3 +20,7 @@ And new words were
 added by me!
 
 and repeat 100 times.
+
+And now I have to write
+some conflict words
+in the feature branch.
