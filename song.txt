@@ -13,6 +13,9 @@ YOU CAN PUSH "SUBMIT"!!!
 
 and repeat 100 times.
 
-A new brance "feature" 
+A new branch "feature" 
 was created by me.
+
+And new words were
+added by me!
 
